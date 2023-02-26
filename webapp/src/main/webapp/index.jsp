@@ -2,7 +2,7 @@
   <h1 style="color: red">TESTING</h1>
   <div class="container">
     <h1 style="color: purple;">New user Register for DevOps Learning</h1>
-    <p style="color: gold;">Please fill in this form to create an account.</p>
+    <p style="color: darkgreen;">Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
