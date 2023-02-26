@@ -1,8 +1,8 @@
 <form action="action_page.php">
   <h1 style="color: red">TESTING</h1>
   <div class="container">
-    <h1 style="color: teal; font-weight: bold;">New user Register for DevOps Learning</h1>
-    <p style="color: teal; font-weight: bold; border: 1px solid;">Please fill in this form to create an account.</p>
+    <h1 style="color: teal; font-weight: bold; border: 1px solid red">New user Register for DevOps Learning</h1>
+    <p style="color: teal; font-weight: bold; border: 1px solid blue;">Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
